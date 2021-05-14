@@ -16,6 +16,6 @@ Overview of changes:
     * CSS file refactored to follow semantic structure and duplicate css selectors consolidated using HTML elements vs specific classes.
     * Descriptive comments added showing start/end of styles associated with different parts of the html file.
 
-View page here: https://emholmes.github.io/urban-octo-telegram/Develop/index.html (deployed application via github)
+View page here: https://emholmes.github.io/challenge-one-horiseon-page/Develop/index.html (deployed application via github)
 
 ![Screenshot of webpage with refactored code](./Develop/assets/images/horiseon-services-final.png)
