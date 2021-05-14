@@ -7,7 +7,7 @@ Overview of changes:
 * The HTML and CSS files have been updated to follow logical and semantic structure. 
 
 * Updates to index.html: 
-    * The following semantic html elements were used in place of divs or added where appropriate: header, nav, main, section, aside, and footer
+    * The following semantic html elements were used in place of divs or added where appropriate: header, nav, main, section, aside, and footer.
     * Main navigation jump (anchor) links refactored to use correct syntax and navigate to correct place on page.
     * Descriptive comments added showing start/end of html groupings on the page.
 
